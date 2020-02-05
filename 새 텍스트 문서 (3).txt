@@ -1,0 +1,36 @@
+bypass connections from users over licensed limit  
+라이선스 한도를 초과하는 사용자의 연결을 우회
+
+never serve after expiration
+만료 후에는 결코 봉사하지 않는다.
+enable bandwidth gain mode
+대역폭 이득 모드를 가능하게한다.
+
+perform dynamic categorization
+동적 분류를 수행한다
+send potential malware sources to webpulse
+잠재적 인 멀웨어 소스를 웹 펄스로 보내십시오.
+
+delete oldest log entries
+가장 오래된 로그 항목 삭제
+
+
+   Content-Encoding: gzip Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR
+Authorization: Basic YWRtaW46cW1mZm56aHht
+Connection: Keep-Alive
+Cookie: BCSI_MC_ID=80; BCSI_MC_ID_SIG=Y76+Rk9MiiDxkyz9mdGy8IH2IiQBAAAAQkNTSV9NQ19JRD04MAAAAAAAAAAAAAA=
+Host: 192.168.1.122:8082
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+Cache-Control: private, no-cache, no-store, max-age=0
+Connection: close
+Content-Encoding: gzip
+Content-Type: text/plain; charset=utf-8
+Date: Thu, 10 Jan 2019 04:16:09 GMT
+Server: BlueCoat-Security-Appliance
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Transfer-Encoding: chunked
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
